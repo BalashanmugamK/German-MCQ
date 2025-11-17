@@ -1,0 +1,8 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:20px}
+.page{max-width:900px;margin:0 auto}
+button{padding:8px 12px;margin:4px}
+.dark{background:#111;color:#eee}
+.light{background:#fff;color:#111}
+.sel{background: #aee1ff}
+.ok{border-left:4px solid green;padding:6px}
+.bad{border-left:4px solid red;padding:6px}
